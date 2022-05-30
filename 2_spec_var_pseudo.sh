@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 
   
@@ -22,4 +21,3 @@ echo 'You are root'
 else
 echo 'You are not root'
 fi
-```
